@@ -14,6 +14,7 @@ LEARN=0.0001
 PATH="/software/singularity-v3.6.4/bin:$PATH"
 
 # set the path to the image we want to use
+# dockerfile available on cellbender github
 CELLBENDER_IMAGE="/nfs/cellgeni/singularity/images/cellbender-0.2.0.sif"
 
 # path to output folder (samples will have a folder inside this one)
